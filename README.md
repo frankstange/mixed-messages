@@ -1,6 +1,6 @@
 # Mixed Messages
 
-![](https://img.shields.io/github/license/frankstange/mixed-messages) ![](https://img.shields.io/github/languages/code-size/frankstange/mixed-messages) ![](https://img.shields.io/github/repo-size/frankstange/mixed-messages)
+![](https://img.shields.io/github/license/frankstange/mixed-messages) ![](https://img.shields.io/github/languages/code-size/frankstange/mixed-messages) ![](https://img.shields.io/github/repo-size/frankstange/mixed-messages) ![](https://img.shields.io/github/license/frankstange/mixed-messages)
 
 Command line app to output randomly generated sentences. Created with Node.js.
 
