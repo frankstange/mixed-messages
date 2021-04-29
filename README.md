@@ -30,4 +30,10 @@ This is the first portfolio project as part of the [Codecademy](https://www.code
 
 ## Launch
 
-No special requirements.
+- Software
+
+  - Node.js
+
+- Hardware
+
+  - No special requirements.
